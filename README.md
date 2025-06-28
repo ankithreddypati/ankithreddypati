@@ -5,7 +5,7 @@
 </h1>
 
 # About Me:
-A passionate software developer from Boston<br><br>🔭 <br>🌱 I’m currently learning Kubernetes , C++<br><br>🔗 Check out my portfolio at https://ankithreddy.me to see some of my projects and contributions.<br><br>🎧 In my free time, I immerse myself in the world of tech and science podcasts, always looking for new ideas and perspectives<br><br>🤝 I’m looking to collaborate on open source projects or innovative tech startups<br><br>🎓 Pursuing Masters from Northeastern University with a degree in Information Systems
+A passionate software developer from Boston<br><br>🔭 <br>🌱 I’m currently learning Kubernetes <br><br>🔗 Check out my portfolio at https://ankithreddy.tech to see some of my projects and contributions.<br><br>🎧 In my free time, I immerse myself in the world of tech and science podcasts, always looking for new ideas and perspectives<br><br>🤝 I’m looking to collaborate on open source projects or innovative tech startups<br><br>🎓 Pursuing Masters from Northeastern University with a degree in Information Systems
 
 
 ## 🌐 Socials:
