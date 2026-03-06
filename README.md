@@ -1,7 +1,7 @@
 <h1 align="center">Ankith Reddy</h1>
 
 <p align="center">
-  🏆 Apple Swift Student Challenge 2024 Winner &nbsp;|&nbsp; iOS Developer &nbsp;|&nbsp; ML Tinkerer &nbsp;|&nbsp; MLOps Engineer
+   ML Tinkerer &nbsp;·&nbsp; ⚙️ MLOps &nbsp;·&nbsp; 📱 iOS Developer &nbsp;·&nbsp; 🏆 Apple Swift Student Challenge 2024
 </p>
 
 <p align="center">
