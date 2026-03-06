@@ -1,7 +1,7 @@
 <h1 align="center">Ankith Reddy</h1>
 
 <p align="center">
-   ML Tinkerer &nbsp;·&nbsp; ⚙️ MLOps &nbsp;·&nbsp; 📱 iOS Developer &nbsp;·&nbsp; 🏆 Apple Swift Student Challenge 2024
+  🔬 ML Tinkerer &nbsp;·&nbsp; ⚙️ MLOps &nbsp;·&nbsp; 📱 iOS Developer &nbsp;·&nbsp; 🏆 Apple Swift Student Challenge 2024
 </p>
 
 <p align="center">
