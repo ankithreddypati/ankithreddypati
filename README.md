@@ -74,11 +74,11 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 [Kubo AI](https://github.com/ankithreddy137/kubo-ai) – Real-time avatar pipeline on Red Hat OpenShift with OpenVINO Model Server and Intel-optimized inference.
-- 🔹 [Lerepairbot](https://github.com/ankithreddy137/lerepairbot) – Vision-language action model fine-tuned to control a LeRobot arm for electronics repair assistance.
-- 🔹 [Mira3D](https://github.com/ankithreddy137/mira3d) – GPU-accelerated Gaussian Splatting pipeline with TensorRT, FastAPI, and MLflow for 3D point cloud generation.
-- 🔹 [Monke](https://github.com/ankithreddy137/monke) – Three.js game with conversational NPCs via Lex, Bedrock, and Lambda provisioned with AWS CDK.
-- 🔹 [Opezy AI Copilot](https://github.com/ankithreddy137/opezy) – Azure-native AI application stack automated with Bicep and Azure DevOps.
+- 🔹 [Kubo AI](https://github.com/ankithreddypati/kubo-app) – Real-time avatar pipeline on Red Hat OpenShift with OpenVINO Model Server and Intel-optimized inference.
+- 🔹 [Lerepairbot](https://huggingface.co/ankithreddy/gemma3nvla_lerepairbot_v0) – Vision-language action model fine-tuned to control a LeRobot arm for electronics repair assistance.
+- 🔹 [Mira3D](https://github.com/ankithreddypati/mira3d) – GPU-accelerated Gaussian Splatting pipeline with TensorRT, FastAPI, and MLflow for 3D point cloud generation.
+- 🔹 [Monke](https://github.com/ankithreddypati/monke) – Three.js game with conversational NPCs via Lex, Bedrock, and Lambda provisioned with AWS CDK.
+- 🔹 [Opezy AI Copilot](https://github.com/ankithreddypati/opezy) – Azure-native AI application stack automated with Bicep and Azure DevOps.
 
 ---
 
