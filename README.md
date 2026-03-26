@@ -1,11 +1,11 @@
-### 💫 About Me
+###  About Me
 
-- 🔭 I'm working on cloud-native AI/ML platforms, MLOps pipelines, and agentic AI systems.
-- 👯 I'm looking to collaborate on open-source ML infrastructure, model deployment, and distributed cloud systems.
-- 🤔 I’m exploring Gaussian Splatting, Vision-Language Action Models, and distributed model serving.
-- 🌱 I’m currently diving deeper into Kubernetes and go.
-- 💬 Ask me about **MLOps, Cloud Infrastructure, or Running Models Locally**.
-- ⚡ Fun fact: Started in finance & accounting, got too fascinated by how we taught sand to think and never looked back.
+-  I'm working on cloud-native AI/ML platforms, MLOps pipelines, and agentic AI systems.
+-  I'm looking to collaborate on open-source ML infrastructure, model deployment, and distributed cloud systems.
+-  I’m exploring Gaussian Splatting, Vision-Language Action Models, and distributed model serving.
+-  I’m currently diving deeper into Kubernetes and go.
+-  Ask me about **MLOps, Cloud Infrastructure, or Running Models Locally**.
+-  Fun fact: Started in finance & accounting, got too fascinated by how we taught sand to think and never looked back.
 
 
 ---
@@ -20,7 +20,7 @@
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -72,7 +72,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - 🔹 [Kubo AI](https://github.com/ankithreddypati/kubo-app) – Real-time avatar pipeline on Red Hat OpenShift with OpenVINO Model Server and Intel-optimized inference.
 - 🔹 [Lerepairbot](https://huggingface.co/ankithreddy/gemma3nvla_lerepairbot_v0) – Vision-language action model fine-tuned to control a LeRobot arm for electronics repair assistance.
@@ -82,7 +82,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ankithreddypati&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
@@ -92,7 +92,7 @@
 
 ---
 
-### 🏆 Achievements & Hackathons
+###  Achievements & Hackathons
 
 - 🍎 **[Swift Student Challenge 2024](https://github.com/ankithreddypati/Trust)** – Apple
 - 🥉 **3rd Place** – [Red Hat & Intel AI Hackathon](https://devpost.com/software/kubo)
@@ -100,14 +100,6 @@
 - 🥇 **1st Place** – [Protothon, Northeastern University](https://www.linkedin.com/feed/update/urn:li:activity:7180798216861274112/)
 - 🏅 **Honorable Mention** – [Microsoft Developers AI Hackathon](https://devblogs.microsoft.com/cosmosdb/meet-the-winners-microsoft-developers-azure-ai-azure-cosmos-db-learning-hackathon/#opezy)
 - ⛓️ **Best Use of Alchemy API** – [ETHIndia Hackathon](https://devfolio.co/projects/credfi-0dd3)
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
 ---
 
 ### 👀 Profile Views
