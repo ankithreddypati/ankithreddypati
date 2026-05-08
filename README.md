@@ -5,8 +5,6 @@
 -  I’m exploring Gaussian Splatting, Vision-Language Action Models, and distributed model serving.
 -  I’m currently diving deeper into Kubernetes and go.
 -  Ask me about **MLOps, Cloud Infrastructure, or Running Models Locally**.
--  Fun fact: Started in finance & accounting, got too fascinated by how we taught sand to think and never looked back.
-
 
 ---
 
